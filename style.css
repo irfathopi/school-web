@@ -1,0 +1,66 @@
+/* starting of navigation bar */
+.wrap{
+    background-color:#F0FFF0;
+
+}
+.container{
+    margin-bottom:100px;
+    
+}
+.logo-size{
+    width:198px;
+    height:59px;
+    padding:2%;
+}
+.manu-padding li{
+    padding:4px 20px;
+}
+.sign-in-button{
+    background-color:#21B573;
+    border-radius:25px;
+    
+}
+
+.bold-item ul li a{
+    font-weight: bold;
+}
+/* Ending of navigation bar */
+
+
+
+
+/* starting of banner part */
+.banner-discription{
+    padding:2%;
+}
+.get-started-button{
+    padding:9px 25px;
+    background-color:#21B573;
+    color:#ffffff;
+    border:none;
+    border-radius:10px;
+
+}
+.banner-img{
+    padding:2%;
+}
+/* Ending of banner part */
+
+
+
+
+.advantages-img{
+   width:66px;
+   height:75px;
+   margin-top:10%
+}
+.card{
+    text-align:center;
+    border:none;
+    background-color: #F0FFF0;
+}
+h2{
+    text-align:center;
+    font-weight:bold;
+    margin-bottom: 50px;
+}
