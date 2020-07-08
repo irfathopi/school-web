@@ -3,18 +3,22 @@
     background-color:#F0FFF0;
 
 }
+
 .container{
     margin-bottom:100px;
     
 }
+
 .logo-size{
     width:198px;
     height:59px;
     padding:2%;
 }
+
 .manu-padding li{
     padding:4px 20px;
 }
+
 .sign-in-button{
     background-color:#21B573;
     border-radius:25px;
@@ -25,6 +29,8 @@
     font-weight: bold;
 }
 /* Ending of navigation bar */
+
+
 
 
 
@@ -43,8 +49,12 @@
 }
 .banner-img{
     padding:2%;
+   
 }
 /* Ending of banner part */
+
+
+
 
 
 
@@ -69,6 +79,9 @@ h2{
     margin-bottom: 50px;
 }
 /* Ending of advanteges section */
+
+
+
 
 
 
@@ -99,24 +112,40 @@ h3{
 }
 /* Ending of courses section */
 
-.comment img{
+
+
+
+
+
+/* Starting of testimonial section */
+.testimonial img{
     width:125px;
     height:125px;
 }
+/* Ending of testimonial section */
+
+
+
+
+
 
 /* Starting of footer  */
-
-.last-section{
-    height:369px;
-    color:#ffffff;
-}
-.course1 li{
-    list-style:none;
-}
-/* Ending of footer */
-
-.copyright{
+.footer{
+    width:100%;
+    height:auto;
     background-color:#282531;
-    height:50px;
-    color:#ffffff;
+    color:white;
 }
+.courses-part li{
+    list-style:none;
+    
+}
+.courses-part{
+    padding-top:8%;
+}
+
+.footer p{
+    text-align:center;
+    margin-bottom:0px;
+}
+/* Ending of footer section */
