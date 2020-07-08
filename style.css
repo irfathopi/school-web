@@ -58,6 +58,10 @@
     text-align:center;
     border:none;
     background-color: #F0FFF0;
+    transition:all .2s;
+}
+.card-allover:hover{
+    box-shadow: 10px 7px 34px -10px black;
 }
 h2{
     text-align:center;
