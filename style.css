@@ -48,13 +48,13 @@
 
 
 
-
+/* Starting of advantages section */
 .advantages-img{
    width:66px;
    height:75px;
    margin-top:10%
 }
-.card{
+.card-allover{
     text-align:center;
     border:none;
     background-color: #F0FFF0;
@@ -64,3 +64,56 @@ h2{
     font-weight:bold;
     margin-bottom: 50px;
 }
+/* Ending of advanteges section */
+
+
+
+/* Starting of courses section */
+.course-div{
+    border:none;
+    box-shadow:10px 7px 34px -10px black;
+    border-radius: 10px;
+}
+h3{
+    color:#413960;
+}
+.buy-course-button{
+    padding:5px 25px;
+    border-radius: 20px;
+    background-color: #21B573;
+    border:none;
+    color:white;
+    
+}
+.courses-date{
+    margin-top:5%;
+    
+}
+.courses-date img{
+    width:24px;
+    height:24px;
+    font-weight: bold;
+}
+/* Ending of courses section */
+
+
+
+.comment img{
+    width:125px;
+    height:125px;
+
+}
+
+
+/* Starting of footer  */
+
+.last-section{
+    
+    height:369px;
+    color:#ffffff;
+}
+.course1 li{
+    list-style:none;
+}
+/* Ending of footer */
+
